@@ -1,18 +1,17 @@
-Calculadora Simples em Python
+# 🧮 Calculadora Simples em Python
 
-Descrição
-Esta é uma calculadora simples desenvolvida em Python que permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. O programa é interativo e solicita ao usuário que insira dois números e escolha uma operação.
+Este é um projeto de **calculadora simples** desenvolvido em Python que permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. O programa é interativo e solicita ao usuário que insira dois números e escolha uma operação.
 
-Funcionalidades
-Operações Suportadas:
+## 🛠 Funcionalidades
 
-Adição (+)
-Subtração (-)
-Multiplicação (*)
-Divisão (/)
+A calculadora oferece as seguintes operações matemáticas:
 
-Tratamento de Erros:
-Validação de entradas para garantir que números válidos sejam fornecidos.
+- **Adição (+)**
+- **Subtração (-)**
+- **Multiplicação (*)**
+- **Divisão (/)**
+  
+Além disso, o programa realiza a validação de entradas, garantindo que o usuário forneça números válidos e que a operação de divisão não gere erros de divisão por zero.
 
-Pré-requisitos:
-Para executar este projeto, você precisa ter o Python instalado em seu sistema. Recomenda-se o Python 3.6 ou superior.
+---
+
